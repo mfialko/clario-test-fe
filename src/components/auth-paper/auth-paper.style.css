@@ -1,0 +1,17 @@
+.auth-paper {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(167.96deg, #F4F9FF 0%, #E0EDFB 100%);
+}
+
+.stars {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+}

@@ -1,0 +1,9 @@
+:root {
+    --text-primary: #4A4E71;
+    --text-secondary: #6F91BC;
+    --success: #27B274;
+    --success-70: #27B274B2;
+    --error: #FF8080;
+    --disabled-20: #151D5133;
+    --disabled-10: #151D511A;
+}
